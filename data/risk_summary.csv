@@ -1,0 +1,9 @@
+Metric,Value
+Account Balance,100000.0
+Risk Per Trade,0.02
+Position Size,2000.0
+Value at Risk (95%),-0.00105
+Conditional VaR,-0.001483
+Stop Loss,1.09359
+Take Profit,1.16055
+Risk Reward Ratio,2.0
