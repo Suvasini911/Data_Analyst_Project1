@@ -216,7 +216,7 @@ Project_1C_Forex_AI_Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone git clone https://github.com/Suvasini911/Forex_AI_Agent.git
 ```
 
 ### 2. Install dependencies
